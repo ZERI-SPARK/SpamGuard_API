@@ -69,7 +69,7 @@ Follow these steps to set up the project on your local machine.
 **- API Response**
 
 ![Screenshot 2024-08-25 123655](https://github.com/user-attachments/assets/f1251c9b-b891-41ad-a8ae-819864925fe8)
-- [Contact Management]
+**- Contact Management**
 ![Screenshot 2024-08-25 123801](https://github.com/user-attachments/assets/e8dd5d0e-d8d1-4300-9b51-5add5dccdd5c)
 
 **- Endpoints**
