@@ -60,14 +60,6 @@ Follow these steps to set up the project on your local machine.
 
 
        
-      
-
-
-
-
-
-
-![Screenshot_25-8-2024_123338_127 0 0 1](https://github.com/user-attachments/assets/68a8a962-63f6-44b7-8d88-ee865256bd57)
 
 # API Token Authorization using Postman
 **- **Token Request****
@@ -85,7 +77,7 @@ Follow these steps to set up the project on your local machine.
 ![Screenshot_25-8-2024_123316_127 0 0 1](https://github.com/user-attachments/assets/21cffec5-d477-40cc-9b56-dec7cc50783d)
 
 **- Manual Testing / Resgistarion /**
-
+![Screenshot_25-8-2024_123338_127 0 0 1](https://github.com/user-attachments/assets/68a8a962-63f6-44b7-8d88-ee865256bd57)
 ![Screenshot_25-8-2024_123551_127 0 0 1](https://github.com/user-attachments/assets/4c1fc33c-0b64-4972-ae1a-6a660a45da49)
 
 ![Screenshot_25-8-2024_12350_127 0 0 1](https://github.com/user-attachments/assets/5e5b88ec-ff00-4243-a237-09d1cebe905d)
