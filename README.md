@@ -36,7 +36,7 @@ Follow these steps to set up the project on your local machine.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.comZERI-SPARK/SpamGuard_API.git
+   git clone https://github.com/ZERI-SPARK/SpamGuard_API.git
    cd SpamGuard_API
 
 **2. Steps/Install dependencies::**
